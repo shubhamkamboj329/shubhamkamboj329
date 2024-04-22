@@ -12,15 +12,15 @@
 
 
 ### Glad to see you here!  
-I am a highly motivated person and driven by my passion for mathematics and data analytics. I am currently pursuing my PG Diploma in Statistical Methods and Analytics from the Indian Statistical Institute, Chennai, and have completed my M.Sc. in Applied Mathematics from South Asian University. With a strong academic background and practical experience, I believe I have the skills and knowledge to excel in the field of data science.
+I am a highly motivated person and driven by my passion for mathematics and data analytics. I completed my PG Diploma in Statistical Methods and Analytics from the Indian Statistical Institute, Chennai, and have completed my M.Sc. in Applied Mathematics from South Asian University. With a strong academic background and practical experience, I believe I have the skills and knowledge to excel in the field of data science.
 
-In my previous role as an advanced math freelancer for Chegg India Pvt. Ltd., I have solved more than 10,000 complex math problems, gaining valuable experience in data analysis and problem solving. This role allowed me to develop my analytical skills and learn to work efficiently under tight deadlines while maintaining a high level of accuracy.
+In my previous role as an advanced math freelancer for Chegg India Pvt. Ltd., I have solved more than 10,000 complex math problems, gaining valuable experience in data analysis and problem-solving. This role allowed me to develop my analytical skills and learn to work efficiently under tight deadlines while maintaining a high level of accuracy.
 
 Also, I have cleared the IIT Gate(2021) exam which shows my advanced math skills. This achievement demonstrates my academic excellence and ability to apply complex mathematical concepts to real-world problems.
 
 My ultimate goal is to become a data scientist, and I believe my education and work experience have prepared me for this career path. I have great attention to detail and strive for continuous learning and professional development. I want to use my skills and experience to solve complex data analysis problems and contribute to the success of any organization.
 
-As a person, I am highly motivated, organized and goal oriented. I have good communication and interpersonal skills and I am comfortable working independently or as part of a team. I thrive in a dynamic and challenging environment and am always looking for opportunities to learn and grow.
+As a person, I am highly motivated, organized, and goal-oriented. I have good communication and interpersonal skills and I am comfortable working independently or as part of a team. I thrive in a dynamic and challenging environment and am always looking for opportunities to learn and grow.
 
 In conclusion, my education and work experience have given me the skills and knowledge to excel in the field of data science. With a strong commitment to continuous learning and professional development, I want to contribute to the success of any organization and achieve my career goals as a data scientist.  
   
